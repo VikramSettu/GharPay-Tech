@@ -1,0 +1,24 @@
+# Roadmap
+
+- [ ] Make Lead OS the clear front door and show where recent merged work lives
+- [ ] Add Lead OS cohort navigation for current, old, expired, and tours
+- [ ] Seed at least 100 current leads, 100 old leads, 100 expired leads, and 20 tours
+- [ ] Verify seeded counts and Lead OS behavior in the browser
+- [ ] Complete Conversation State Compiler persistence and Flow OS read-model wiring
+- [ ] Backfill existing screenshot observations safely and report results
+- [ ] Resolve compiler-related database security findings
+- [ ] Add and run compiler fixtures and integration tests
+- [ ] Verify Flow OS, Vision, work queue, and Control Tower in the browser
+- [ ] Confirm all content routes include required social metadata
+- [x] Configure and link Divyanshu's GitHub API connection to this remixed project
+- [x] Build Admin Draft Control room over Vision, Movement OS and Booking Flow Split (Command, Vision, Reconciliation, Batches G1-G4, Claims, Risk & Leakage)
+- [x] Shared admin command bar with day / person / zone / WhatsApp / priority / health filters that persist across tabs
+- [x] Admin split drill-down: customer story beside the live Booking Flow panel
+- [ ] Fix naming collision: intent class vs G1-G4 work batches vs agreement queue
+- [x] Route Movement, CARE, Admin drill-down, and Booking Flow through one canonical customer id; stop selection from creating new leads
+- [x] Build Movement CARE as a shared Draft Vision + Movement OS result workspace
+- [x] Require a daily FIND / SCHEDULE / COMPLETE / CLOSE goal before drafting starts
+- [x] Show periodic goal-versus-actual progress and accountable updates for Flow Ops and TCM
+- [x] Integrate the uploaded 4-checkpoint scorecard, auto-reason, recovery, and carry-forward system into Movement CARE and Admin, alongside Movement OS and Booking Flow Split
+
+- [x] Call Conversation Engine: agenda inference, agenda-specific capture, auto WhatsApp message + conditional follow-up + next step, movement classification, admin Calls dashboard
