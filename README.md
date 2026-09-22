@@ -2,9 +2,7 @@
 
 remove Property Command Center random data of property command CC. Also fix the lead parser from copy-paste to direct lead. Make it very great.
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://lead-straightener.lovable.app
+**Live app**: (https://ghar-pay-tech.vercel.app/)
 
 ## Build with Lovable
 
